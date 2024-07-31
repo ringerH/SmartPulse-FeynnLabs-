@@ -1,5 +1,5 @@
 ## SmartPulse - Customer Analytics dashboard prototype for small businesses
-Code implementation of the prototype product, made as a part of an ML Internship(Feynn Labs)
+Covers EDA, Data Visualization and ML Modelling for the prototype product.
 
 ## Overview
 
