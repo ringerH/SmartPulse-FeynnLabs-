@@ -1,6 +1,8 @@
 ## SmartPulse - Customer Analytics dashboard prototype for small businesses
 Covers EDA, Data Visualization and ML Modelling for the prototype product.
 
+[Kaggle Notebook](https://www.kaggle.com/code/hillol10/customer-segmentation-kmeans)
+
 ## Overview
 
 SmartPulse is a product designed to offer actionable customer insights for small businesses. This document summarizes the exploratory data analysis (EDA) and machine learning (ML) modelling processes used to understand customer spending behavior and identify valuable customer segments.
